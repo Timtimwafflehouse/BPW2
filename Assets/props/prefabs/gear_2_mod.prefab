@@ -51,7 +51,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 236365aa5cd5f6448853d34d616cef0b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a1610a38f39a664d9ad56dfd1efd48d, type: 2}
+      objectReference: {fileID: 2100000, guid: 74c41475186080345be8bdaaaef54ea2, type: 2}
     - target: {fileID: 919132149155446097, guid: 236365aa5cd5f6448853d34d616cef0b, type: 3}
       propertyPath: m_Name
       value: gear_2_mod
