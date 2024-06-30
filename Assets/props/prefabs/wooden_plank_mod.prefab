@@ -9,44 +9,56 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2386
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2386
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2386
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0
+      value: 1.54
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.243
+      value: 0.83
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -11.14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7813966
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0.09280293
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.60535717
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: -0.11979015
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
+      value: -16.862
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -74.866
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
+      value: -4.486
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -55,6 +67,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
       propertyPath: m_Name
       value: wooden_plank_mod
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6486185d482cbd244a5d5d95a6f97940, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
